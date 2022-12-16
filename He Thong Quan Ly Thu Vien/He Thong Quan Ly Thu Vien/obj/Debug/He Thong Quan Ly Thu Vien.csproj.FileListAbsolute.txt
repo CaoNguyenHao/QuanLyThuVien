@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\bin\Debug\He Thong Quan Ly Thu Vien.exe.config
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\bin\Debug\He Thong Quan Ly Thu Vien.exe
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\bin\Debug\He Thong Quan Ly Thu Vien.pdb
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He Thong Quan Ly Thu Vien.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He Thong Quan Ly Thu Vien.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He_Thong_Quan_Ly_Thu_Vien.FormChuongTrinh.resources
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He_Thong_Quan_Ly_Thu_Vien.Dangnhaphethong.resources
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He_Thong_Quan_Ly_Thu_Vien.Properties.Resources.resources
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He Thong Quan Ly Thu Vien.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He Thong Quan Ly Thu Vien.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He Thong Quan Ly Thu Vien.exe
+C:\Users\MSI\source\repos\He Thong Quan Ly Thu Vien\He Thong Quan Ly Thu Vien\obj\Debug\He Thong Quan Ly Thu Vien.pdb
